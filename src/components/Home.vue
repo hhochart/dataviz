@@ -10,6 +10,9 @@ export default {
   name: 'Home',
   data () {
     return {}
+  },
+  mounted () {
+    console.log('test')
   }
 }
 </script>
