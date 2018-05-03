@@ -23,11 +23,8 @@ export default {
     }
   },
   beforeRouteUpdate (to, from, next) {
-    console.log(to.params.id)
     this.currentSlide = Slides.state[parseInt(to.params.id)]
-    // react to route changes...
     next()
-    // don't forget to call next()
   },
   methods: {
     nextSlide () {
