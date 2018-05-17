@@ -50,7 +50,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/dataviz',
+    assetsPublicPath: 'https://hhochart29.github.io/dataviz/',
 
     /**
      * Source Maps

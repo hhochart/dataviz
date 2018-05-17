@@ -15,6 +15,7 @@ export default new Router({
     },
     {
       path: '/slide',
+      name: 'DefaultSlide',
       redirect: '/slide/1'
     },
     {
