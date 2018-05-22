@@ -62,16 +62,18 @@ export default {
   },
   methods: {
     nextSlide () {
+      // Todo: lancer l'anime et update le DOM
       let next = parseInt(this.$route.params.id) + 1
-      this.$router.push({name: 'Slide', params: {id: next}})
+      this.$router.push({ name: 'Slide', params: { id: next } })
     },
     prevSlide () {
+      // Todo: lancer l'anime et update le DOM
       let prev = parseInt(this.$route.params.id) - 1
-      this.$router.push({name: 'Slide', params: {id: prev}})
+      this.$router.push({ name: 'Slide', params: { id: prev } })
     },
     checkRoute (route) {
       if (!Slides.state[parseInt(route)]) {
-        this.$router.push({name: 'Slide', params: {id: 1}})
+        this.$router.push({ name: 'Slide', params: { id: 1 } })
       }
 
       this.canNext = route < this.totalSlides
@@ -82,35 +84,37 @@ export default {
 </script>
 
 <style scoped lang="scss">
-  @import '../scss/variables';
+@import '../scss/variables';
 
-  .slide {
-    background-size: contain;
-    background: no-repeat top right;
-    min-height: 100vh;
-    .choices {
-      position: relative;
-      .choice {
-        position: absolute;
-        &:hover {
-          .name {
-            opacity: 1;
-          }
-        }
-        img {
-          background-color: $grisclair;
-          padding: 30px 10px;
-          border-radius: 100%;
-        }
+.slide {
+  max-height: 100vh;
+  overflow: hidden;
+  background-size: contain;
+  background: no-repeat top right;
+  min-height: 100vh;
+  .choices {
+    position: relative;
+    .choice {
+      position: absolute;
+      &:hover {
         .name {
-          opacity: 0;
-          top: 10px;
-          position: relative;
-          text-align: center;
-          color: $grisfonce;
-          transition: .3s ease-in-out
+          opacity: 1;
         }
+      }
+      img {
+        background-color: $grisclair;
+        padding: 30px 10px;
+        border-radius: 100%;
+      }
+      .name {
+        opacity: 0;
+        top: 10px;
+        position: relative;
+        text-align: center;
+        color: $grisfonce;
+        transition: 0.3s ease-in-out;
       }
     }
   }
+}
 </style>
