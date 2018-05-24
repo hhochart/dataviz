@@ -1,22 +1,25 @@
 <template>
-  <div class="slide" :style="{backgroundImage: `url(${getBackgroundImage})`}">
-    <h1 v-html="currentSlide.title"></h1>
+  <transition-group appear name="fade" mode="out-in">
+    <div v-for="slide in allSlides" class="slide global-container" :key="slide.id" v-if="slide.id == currentSlide.id" :style="{backgroundImage: `url(${getBackgroundImage})`}">
+      {{ slide.img }}
+      <h1 v-html="slide.title"></h1>
+      <div class="choices">
+        <div class="choice" v-for="(choice, index) in slide.choices" :key="index" :style="{top: `${choice.top}px`, left: `${choice.left}px`}">
+          <img :src="choice.img" alt="">
+          <div class="name">{{ choice.name }}</div>
+        </div>
+      </div>
 
-    <div class="choices">
-      <div class="choice" v-for="(choice, index) in currentSlide.choices" :key="index" :style="{top: `${choice.top}px`, left: `${choice.left}px`}">
-        <img :src="choice.img" alt="">
-        <div class="name">{{ choice.name }}</div>
+      <button @click="nextSlide" class="btn" v-if="canNext">Suivant</button>
+      <br>
+      <button @click="prevSlide" class="btn" v-if="canPrev">Precedent</button>
+
+      <div class="counter">
+        <span class="count-current">0{{ $route.params.id }}</span><br>
+        <span class="count-total">0{{ totalSlides }}</span>
       </div>
     </div>
-
-    <button @click="nextSlide" v-if="canNext">Suivant</button>
-    <br>
-    <button @click="prevSlide" v-if="canPrev">Precedant</button>
-
-    <div class="counter">
-      {{ $route.params.id }} / {{ totalSlides }}
-    </div>
-  </div>
+  </transition-group>
 </template>
 
 <script>
@@ -31,9 +34,11 @@ export default {
   data () {
     return {
       currentSlide: Slides.state[parseInt(this.$route.params.id)],
+      allSlides: Slides.state,
       totalSlides: Slides.utils.size(),
       canNext: true,
-      canPrev: true
+      canPrev: true,
+      backgroundImage: etape1
     }
   },
   computed: {
@@ -52,6 +57,11 @@ export default {
       }
     }
   },
+  filters: {
+    toString (el) {
+      return el.toString()
+    }
+  },
   beforeRouteUpdate (to, from, next) {
     this.checkRoute(to.params.id)
     this.currentSlide = Slides.state[parseInt(to.params.id)]
@@ -62,18 +72,16 @@ export default {
   },
   methods: {
     nextSlide () {
-      // Todo: lancer l'anime et update le DOM
       let next = parseInt(this.$route.params.id) + 1
-      this.$router.push({ name: 'Slide', params: { id: next } })
+      this.$router.push({name: 'Slide', params: {id: next}})
     },
     prevSlide () {
-      // Todo: lancer l'anime et update le DOM
       let prev = parseInt(this.$route.params.id) - 1
-      this.$router.push({ name: 'Slide', params: { id: prev } })
+      this.$router.push({name: 'Slide', params: {id: prev}})
     },
     checkRoute (route) {
       if (!Slides.state[parseInt(route)]) {
-        this.$router.push({ name: 'Slide', params: { id: 1 } })
+        this.$router.push({name: 'Slide', params: {id: 1}})
       }
 
       this.canNext = route < this.totalSlides
@@ -82,39 +90,3 @@ export default {
   }
 }
 </script>
-
-<style scoped lang="scss">
-@import '../scss/variables';
-
-.slide {
-  max-height: 100vh;
-  overflow: hidden;
-  background-size: contain;
-  background: no-repeat top right;
-  min-height: 100vh;
-  .choices {
-    position: relative;
-    .choice {
-      position: absolute;
-      &:hover {
-        .name {
-          opacity: 1;
-        }
-      }
-      img {
-        background-color: $grisclair;
-        padding: 30px 10px;
-        border-radius: 100%;
-      }
-      .name {
-        opacity: 0;
-        top: 10px;
-        position: relative;
-        text-align: center;
-        color: $grisfonce;
-        transition: 0.3s ease-in-out;
-      }
-    }
-  }
-}
-</style>
