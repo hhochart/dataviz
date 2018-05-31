@@ -1,3 +1,27 @@
+import francaise from '../assets/francaise.png'
+import indienne from '../assets/indienne.png'
+import arabe from '../assets/arabe.png'
+import asiat from '../assets/asiat.png'
+import espagnol from '../assets/espagnol.png'
+import americaine from '../assets/americaine.png'
+import africaine from '../assets/africaine.png'
+import jamaicaine from '../assets/jamaicaine.png'
+import pizza from '../assets/pizza.png'
+import icecream from '../assets/icecream.png'
+import cookies from '../assets/cookies.png'
+import chocolate from '../assets/chocolate.png'
+import chips from '../assets/chips.png'
+import etape1 from '../assets/etape1.png'
+import etape2 from '../assets/etape2.png'
+import etape3 from '../assets/etape3.png'
+import etape4 from '../assets/etape4.png'
+import etape5 from '../assets/etape5.png'
+import radis from '../assets/radis.png'
+import salade from '../assets/salade.png'
+import poivron from '../assets/poivron.png'
+import aubergine from '../assets/aubergine.png'
+import carotte from '../assets/carotte.png'
+
 const slides = {
   state: {
     1: {
@@ -6,7 +30,7 @@ const slides = {
       choices: {
         choice1: {
           name: 'Francaise',
-          img: require('../assets/francaise.png'),
+          img: francaise,
           style: {
             top: '30px',
             left: '20px'
@@ -14,7 +38,7 @@ const slides = {
         },
         choice2: {
           name: 'Indienne',
-          img: require('../assets/indienne.png'),
+          img: indienne,
           style: {
             top: '280px',
             left: '250px'
@@ -22,7 +46,7 @@ const slides = {
         },
         choice3: {
           name: 'Arabe',
-          img: require('../assets/arabe.png'),
+          img: arabe,
           style: {
             top: '100px',
             left: '500px'
@@ -30,7 +54,7 @@ const slides = {
         },
         choice4: {
           name: 'Asiat',
-          img: require('../assets/asiat.png'),
+          img: asiat,
           style: {
             top: '350px',
             left: '640px'
@@ -38,7 +62,7 @@ const slides = {
         },
         choice5: {
           name: 'Espagnol',
-          img: require('../assets/espagnol.png'),
+          img: espagnol,
           style: {
             top: '-20px',
             left: '800px'
@@ -46,7 +70,7 @@ const slides = {
         },
         choice6: {
           name: 'Americaine',
-          img: require('../assets/americaine.png'),
+          img: americaine,
           style: {
             top: '250px',
             left: '950px'
@@ -54,7 +78,7 @@ const slides = {
         },
         choice7: {
           name: 'Africaine',
-          img: require('../assets/africaine.png'),
+          img: africaine,
           style: {
             top: '100px',
             left: '1200px'
@@ -62,7 +86,7 @@ const slides = {
         },
         choice8: {
           name: 'Jamaicaine',
-          img: require('../assets/jamaicaine.png'),
+          img: jamaicaine,
           style: {
             top: '350px',
             left: '1300px'
@@ -76,7 +100,7 @@ const slides = {
       choices: {
         choice1: {
           name: 'Pizza',
-          img: require('../assets/pizza.png'),
+          img: pizza,
           style: {
             top: '50px',
             left: '0px'
@@ -84,7 +108,7 @@ const slides = {
         },
         choice2: {
           name: 'Glace',
-          img: require('../assets/icecream.png'),
+          img: icecream,
           style: {
             top: '250px',
             left: '250px'
@@ -92,7 +116,7 @@ const slides = {
         },
         choice3: {
           name: 'Cookies',
-          img: require('../assets/cookies.png'),
+          img: cookies,
           style: {
             top: '50px',
             left: '500px'
@@ -100,7 +124,7 @@ const slides = {
         },
         choice4: {
           name: 'Chocolat',
-          img: require('../assets/chocolate.png'),
+          img: chocolate,
           style: {
             top: '250px',
             left: '750px'
@@ -108,7 +132,7 @@ const slides = {
         },
         choice5: {
           name: 'Chips',
-          img: require('../assets/chips.png'),
+          img: chips,
           style: {
             top: '120px',
             left: '1050px'
@@ -122,7 +146,7 @@ const slides = {
       choices: {
         choice1: {
           name: 'Aucun',
-          img: require('../assets/etape1.png'),
+          img: etape1,
           style: {
             bottom: '50px',
             left: '50px'
@@ -130,7 +154,7 @@ const slides = {
         },
         choice2: {
           name: 'Une portion',
-          img: require('../assets/etape2.png'),
+          img: etape2,
           style: {
             bottom: '50px',
             left: '250px'
@@ -138,7 +162,7 @@ const slides = {
         },
         choice3: {
           name: 'Deux portions',
-          img: require('../assets/etape3.png'),
+          img: etape3,
           style: {
             bottom: '50px',
             left: '480px'
@@ -146,7 +170,7 @@ const slides = {
         },
         choice4: {
           name: 'Trois portions',
-          img: require('../assets/etape4.png'),
+          img: etape4,
           style: {
             bottom: '50px',
             left: '700px'
@@ -154,7 +178,7 @@ const slides = {
         },
         choice5: {
           name: '+ de quatre portions',
-          img: require('../assets/etape5.png'),
+          img: etape5,
           style: {
             bottom: '50px',
             left: '950px'
@@ -168,7 +192,7 @@ const slides = {
       choices: {
         choice1: {
           name: 'Radis',
-          img: require('../assets/radis.png'),
+          img: radis,
           style: {
             top: '200px',
             left: '50px'
@@ -176,7 +200,7 @@ const slides = {
         },
         choice2: {
           name: 'Salade',
-          img: require('../assets/salade.png'),
+          img: salade,
           style: {
             top: '300px',
             left: '220px'
@@ -184,7 +208,7 @@ const slides = {
         },
         choice3: {
           name: 'Poivron',
-          img: require('../assets/poivron.png'),
+          img: poivron,
           style: {
             top: '180px',
             left: '440px'
@@ -192,7 +216,7 @@ const slides = {
         },
         choice4: {
           name: 'Carotte',
-          img: require('../assets/carotte.png'),
+          img: carotte,
           style: {
             top: '280px',
             left: '700px'
@@ -200,7 +224,7 @@ const slides = {
         },
         choice5: {
           name: 'Aubergine',
-          img: require('../assets/aubergine.png'),
+          img: aubergine,
           style: {
             top: '100px',
             left: '1000px'
