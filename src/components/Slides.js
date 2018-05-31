@@ -7,86 +7,112 @@ const slides = {
         choice1: {
           name: 'Francaise',
           img: require('../assets/francaise.png'),
-          top: 750,
-          left: 50
+          style: {
+            top: '30px',
+            left: '20px'
+          }
         },
         choice2: {
           name: 'Indienne',
           img: require('../assets/indienne.png'),
-          top: 550,
-          left: 150
+          style: {
+            top: '280px',
+            left: '250px'
+          }
         },
         choice3: {
           name: 'Arabe',
           img: require('../assets/arabe.png'),
-          top: 550,
-          left: 250
+          style: {
+            top: '100px',
+            left: '500px'
+          }
         },
         choice4: {
           name: 'Asiat',
           img: require('../assets/asiat.png'),
-          top: 350,
-          left: 350
+          style: {
+            top: '350px',
+            left: '640px'
+          }
         },
         choice5: {
           name: 'Espagnol',
           img: require('../assets/espagnol.png'),
-          top: 550,
-          left: 550
+          style: {
+            top: '-20px',
+            left: '800px'
+          }
         },
         choice6: {
           name: 'Americaine',
           img: require('../assets/americaine.png'),
-          top: 650,
-          left: 650
+          style: {
+            top: '250px',
+            left: '950px'
+          }
         },
         choice7: {
           name: 'Africaine',
           img: require('../assets/africaine.png'),
-          top: 750,
-          left: 750
+          style: {
+            top: '100px',
+            left: '1200px'
+          }
         },
         choice8: {
           name: 'Jamaicaine',
           img: require('../assets/jamaicaine.png'),
-          top: 850,
-          left: 850
+          style: {
+            top: '350px',
+            left: '1300px'
+          }
         }
       }
     },
     2: {
       id: 2,
-      title: 'Petit coup de mou… qu’est ce que tu manges<br>pour te remonter le moral ?',
+      title: 'Petit coup de mou… que manges-tu<br>pour te remonter le moral ?',
       choices: {
         choice1: {
           name: 'Pizza',
           img: require('../assets/pizza.png'),
-          top: 500,
-          left: 500
+          style: {
+            top: '50px',
+            left: '0px'
+          }
         },
         choice2: {
-          name: 'Pizza',
-          img: require('../assets/pizza.png'),
-          top: 500,
-          left: 500
+          name: 'Glace',
+          img: require('../assets/icecream.png'),
+          style: {
+            top: '250px',
+            left: '250px'
+          }
         },
         choice3: {
-          name: 'Pizza',
-          img: require('../assets/pizza.png'),
-          top: 500,
-          left: 500
+          name: 'Cookies',
+          img: require('../assets/cookies.png'),
+          style: {
+            top: '50px',
+            left: '500px'
+          }
         },
         choice4: {
-          name: 'Pizza',
-          img: require('../assets/pizza.png'),
-          top: 500,
-          left: 500
+          name: 'Chocolat',
+          img: require('../assets/chocolate.png'),
+          style: {
+            top: '250px',
+            left: '750px'
+          }
         },
         choice5: {
-          name: 'Pizza',
-          img: require('../assets/pizza.png'),
-          top: 500,
-          left: 500
+          name: 'Chips',
+          img: require('../assets/chips.png'),
+          style: {
+            top: '120px',
+            left: '1050px'
+          }
         }
       }
     },
@@ -95,34 +121,44 @@ const slides = {
       title: 'On dit qu’il faut manger environ 3 fruits<br>par jour, tu en es à combien toi ?',
       choices: {
         choice1: {
-          name: 'Aucune',
-          img: require('../assets/arabe.png'),
-          top: 500,
-          left: 500
+          name: 'Aucun',
+          img: require('../assets/etape1.png'),
+          style: {
+            bottom: '50px',
+            left: '50px'
+          }
         },
         choice2: {
-          name: 'Aucune',
-          img: require('../assets/arabe.png'),
-          top: 500,
-          left: 500
+          name: 'Une portion',
+          img: require('../assets/etape2.png'),
+          style: {
+            bottom: '50px',
+            left: '250px'
+          }
         },
         choice3: {
-          name: 'Aucune',
-          img: require('../assets/arabe.png'),
-          top: 500,
-          left: 500
+          name: 'Deux portions',
+          img: require('../assets/etape3.png'),
+          style: {
+            bottom: '50px',
+            left: '480px'
+          }
         },
         choice4: {
-          name: 'Aucune',
-          img: require('../assets/arabe.png'),
-          top: 500,
-          left: 500
+          name: 'Trois portions',
+          img: require('../assets/etape4.png'),
+          style: {
+            bottom: '50px',
+            left: '700px'
+          }
         },
         choice5: {
-          name: 'Aucune',
-          img: require('../assets/arabe.png'),
-          top: 500,
-          left: 500
+          name: '+ de quatre portions',
+          img: require('../assets/etape5.png'),
+          style: {
+            bottom: '50px',
+            left: '950px'
+          }
         }
       }
     },
@@ -133,42 +169,52 @@ const slides = {
         choice1: {
           name: 'Radis',
           img: require('../assets/radis.png'),
-          top: 500,
-          left: 500
+          style: {
+            top: '200px',
+            left: '50px'
+          }
         },
         choice2: {
           name: 'Salade',
           img: require('../assets/salade.png'),
-          top: 500,
-          left: 500
+          style: {
+            top: '300px',
+            left: '220px'
+          }
         },
         choice3: {
           name: 'Poivron',
           img: require('../assets/poivron.png'),
-          top: 500,
-          left: 500
+          style: {
+            top: '180px',
+            left: '440px'
+          }
         },
         choice4: {
           name: 'Carotte',
           img: require('../assets/carotte.png'),
-          top: 500,
-          left: 500
+          style: {
+            top: '280px',
+            left: '700px'
+          }
         },
         choice5: {
           name: 'Aubergine',
           img: require('../assets/aubergine.png'),
-          top: 100,
-          left: 500
+          style: {
+            top: '100px',
+            left: '1000px'
+          }
         }
       }
     }
   },
   utils: {
-    size: function () {
+    size: function (obj = slides.state) {
       let size = 0
       let key
-      for (key in slides.state) {
-        if (slides.state.hasOwnProperty(key)) size++
+      for (key in obj) {
+        if (obj.hasOwnProperty(key)) size++
       }
       return size
     }

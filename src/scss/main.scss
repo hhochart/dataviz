@@ -35,6 +35,9 @@ body {
 	padding: 50px 5% 50px 5%;
 	box-sizing: border-box;
 	position: relative;
+	h1 {
+		line-height: 5vh;
+	}
 	.btn {
 		font-weight: 500;
 		font-size: 17px;
@@ -180,8 +183,8 @@ body {
 	max-height: 100vh;
 	overflow: hidden;
 	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: top right;
+	background: no-repeat top right;
+	background-size: 35%;
 	min-height: 100vh;
 	position: absolute;
 	top: 0;
@@ -190,25 +193,27 @@ body {
 	right: 0;
 	.choices {
 		position: relative;
+		display: block;
+		margin-top: 5vh;
+		min-height: 55vh;
 		.choice {
 			position: absolute;
+			cursor: pointer;
+			&.selected {
+				.name {
+					color: black;
+					opacity: 1;
+				}
+				.img-container {
+					&::after {
+						background-color: darken($grisclair, 15%)
+					}
+				}
+			}
 			&:hover {
 				.name {
 					opacity: 1;
 				}
-			}
-			img {
-				background-color: $grisclair;
-				padding: 30px 10px;
-				border-radius: 100%;
-			}
-			.name {
-				opacity: 0;
-				top: 10px;
-				position: relative;
-				text-align: center;
-				color: $grisfonce;
-				transition: 0.3s ease-in-out;
 			}
 		}
 	}
@@ -238,6 +243,22 @@ body {
 			font-weight: 100;
 			width: 100%;
 			display: block;
+		}
+	}
+}
+
+/* SINGLE SLIDE FIX */
+
+.slide-2 {
+	background-position: bottom right;
+}
+
+.slide-3 {
+	.choice {
+		.img-container {
+			&::after {
+				content: none;
+			}
 		}
 	}
 }

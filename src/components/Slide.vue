@@ -1,18 +1,16 @@
 <template>
   <transition-group appear name="fade" mode="out-in">
-    <div v-for="slide in allSlides" class="slide global-container" :key="slide.id" v-if="slide.id == currentSlide.id" :style="{backgroundImage: `url(${getBackgroundImage})`}">
+    <div v-for="slide in allSlides" class="slide global-container" :key="slide.id" v-if="slide.id == currentSlide.id" :style="{backgroundImage: `url(${getBackgroundImage})`}" :class="`slide-${slide.id}`">
       {{ slide.img }}
       <h1 v-html="slide.title"></h1>
       <div class="choices">
-        <div class="choice" v-for="(choice, index) in slide.choices" :key="index" :style="{top: `${choice.top}px`, left: `${choice.left}px`}">
-          <img :src="choice.img" alt="">
-          <div class="name">{{ choice.name }}</div>
+        <div class="choice" v-for="(choice, index) in slide.choices" :key="index" :style="choice.style" role="button" @click="selection(index)" :class="{selected: selected === index}">
+          <Picto :src="choice.img" :name="choice.name"></Picto>
         </div>
       </div>
 
-      <button @click="nextSlide" class="btn" v-if="canNext">Suivant</button>
-      <br>
-      <button @click="prevSlide" class="btn" v-if="canPrev">Precedent</button>
+      <button @click="nextSlide" class="btn" v-if="canNext && !isLastSlide">Suivant</button>
+      <button @click="goToResults" class="btn" v-else>Voir le resultat</button>
 
       <div class="counter">
         <span class="count-current">0{{ $route.params.id }}</span><br>
@@ -24,6 +22,7 @@
 
 <script>
 import Slides from './Slides'
+import Picto from './Picto'
 import etape1 from '@/assets/fond-ecran2.png'
 import etape2 from '@/assets/fond-ecran3.png'
 import etape3 from '@/assets/fond-ecran4.png'
@@ -31,14 +30,16 @@ import etape4 from '@/assets/fond-ecran5.png'
 
 export default {
   name: 'Slide',
+  components: {Picto},
   data () {
     return {
       currentSlide: Slides.state[parseInt(this.$route.params.id)],
       allSlides: Slides.state,
       totalSlides: Slides.utils.size(),
       canNext: true,
-      canPrev: true,
-      backgroundImage: etape1
+      isLastSlide: false,
+      backgroundImage: etape1,
+      selected: null
     }
   },
   computed: {
@@ -63,29 +64,44 @@ export default {
     }
   },
   beforeRouteUpdate (to, from, next) {
-    this.checkRoute(to.params.id)
-    this.currentSlide = Slides.state[parseInt(to.params.id)]
-    next()
+    if (this.$results[this.currentSlide.id] !== null) {
+      this.checkRoute(to.params.id)
+      this.currentSlide = Slides.state[parseInt(to.params.id)]
+      next()
+    }
   },
   created () {
     this.checkRoute(this.$route.params.id)
   },
   methods: {
     nextSlide () {
-      let next = parseInt(this.$route.params.id) + 1
-      this.$router.push({name: 'Slide', params: {id: next}})
+      if (this.$results[this.currentSlide.id] !== undefined) {
+        let next = parseInt(this.$route.params.id) + 1
+        this.$router.push({name: 'Slide', params: {id: next}})
+        this.selected = null
+      } else {
+        alert('Faites un choix')
+      }
     },
-    prevSlide () {
-      let prev = parseInt(this.$route.params.id) - 1
-      this.$router.push({name: 'Slide', params: {id: prev}})
+    goToResults () {
+      if (Slides.utils.size() === Slides.utils.size(this.$results)) {
+        this.$router.push({name: 'Results'})
+      } else {
+        alert('Faites un dernier choix')
+      }
     },
     checkRoute (route) {
-      if (!Slides.state[parseInt(route)]) {
+      if (!Slides.state[parseInt(route)] || (Object.keys(this.$results).length === 0 && route !== 1)) {
         this.$router.push({name: 'Slide', params: {id: 1}})
+        route = 1
       }
 
       this.canNext = route < this.totalSlides
-      this.canPrev = route > 1
+      this.isLastSlide = route === this.totalSlides
+    },
+    selection (choiceId) {
+      this.selected = choiceId
+      this.$results[this.currentSlide.id] = choiceId
     }
   }
 }
