@@ -55,6 +55,9 @@ body {
 			border: 2px solid $bleufonce;
 			color: $bleufonce;
 		}
+		&:focus {
+			outline: none;
+		}
 	}
 }
 

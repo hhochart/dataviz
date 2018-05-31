@@ -1,6 +1,7 @@
 <template>
   <div class="results">
     Page des resultats
+    <div class="results global-container"></div>
   </div>
 </template>
 
