@@ -13,6 +13,7 @@
     "homepage": "https://github.com/hhochart29/dataviz"
   },
   "dependencies": {
+    "google-spreadsheet-to-json": "^1.0.0",
     "vue": "^2.5.2",
     "vue-gh-pages": "^1.16.0",
     "vue-router": "^3.0.1"

@@ -101,7 +101,7 @@ export default {
     },
     selection (choiceId) {
       this.selected = choiceId
-      this.$results[this.currentSlide.id] = choiceId
+      this.$results[this.currentSlide.id] = this.currentSlide.choices[choiceId].name
     }
   }
 }

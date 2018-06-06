@@ -6,12 +6,15 @@ import router from './router'
 
 Vue.config.productionTip = false
 
+/*
+* Stockage des reponses dans un variable globale
+*/
 Vue.prototype.$results = {}
 
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
   router,
-  components: { App },
+  components: {App},
   template: '<App/>'
 })

@@ -43,7 +43,7 @@ export default {
   align-items: center;
   .name {
     position: absolute;
-    bottom: -55px;
+    bottom: -65px;
     opacity: 0;
     padding-top: 10px;
     text-align: center;

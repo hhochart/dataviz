@@ -153,7 +153,7 @@ const slides = {
           }
         },
         choice2: {
-          name: 'Une portion',
+          name: 'Un seul',
           img: etape2,
           style: {
             bottom: '50px',
@@ -161,7 +161,7 @@ const slides = {
           }
         },
         choice3: {
-          name: 'Deux portions',
+          name: 'Deux',
           img: etape3,
           style: {
             bottom: '50px',
@@ -169,7 +169,7 @@ const slides = {
           }
         },
         choice4: {
-          name: 'Trois portions',
+          name: 'Trois quatre',
           img: etape4,
           style: {
             bottom: '50px',
@@ -177,7 +177,7 @@ const slides = {
           }
         },
         choice5: {
-          name: '+ de quatre portions',
+          name: 'Plus de quatre',
           img: etape5,
           style: {
             bottom: '50px',
@@ -191,7 +191,7 @@ const slides = {
       title: 'Passons aux légumes, est ce que tu en<br>manges à chaque repas ?',
       choices: {
         choice1: {
-          name: 'Radis',
+          name: 'Aucun',
           img: radis,
           style: {
             top: '200px',
@@ -199,7 +199,7 @@ const slides = {
           }
         },
         choice2: {
-          name: 'Salade',
+          name: 'Une demi portion',
           img: salade,
           style: {
             top: '300px',
@@ -207,7 +207,7 @@ const slides = {
           }
         },
         choice3: {
-          name: 'Poivron',
+          name: 'Une portion',
           img: poivron,
           style: {
             top: '180px',
@@ -215,7 +215,7 @@ const slides = {
           }
         },
         choice4: {
-          name: 'Carotte',
+          name: 'Deux portions',
           img: carotte,
           style: {
             top: '280px',
@@ -223,7 +223,7 @@ const slides = {
           }
         },
         choice5: {
-          name: 'Aubergine',
+          name: 'Plus de deux portions',
           img: aubergine,
           style: {
             top: '100px',

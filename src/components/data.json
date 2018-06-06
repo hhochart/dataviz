@@ -1,0 +1,1127 @@
+[
+  {
+    "fav_cuisine_coded": "arabe",
+    "comfort_food": "none",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "chocolat, chips, glace",
+    "fruit_day": "trois quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Non",
+    "income": "50 001 $ à 70 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "frozen yogurt, pizza, fast food",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "arabe",
+    "comfort_food": "pizza, mac and cheese, glace",
+    "fruit_day": "trois quatre",
+    "veggies_day": "une portion",
+    "vitamins": "Oui",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "glace, chocolat, chips ",
+    "fruit_day": "trois quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Non",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "africaine",
+    "comfort_food": "candy, brownies and soda",
+    "fruit_day": "Un seul",
+    "veggies_day": "Aucun",
+    "vitamins": "Non",
+    "income": "moins de 15 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "asiatique",
+    "comfort_food": "chocolat, glace, french fries, pretzels",
+    "fruit_day": "trois quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Oui",
+    "income": "50 001 $ à 70 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "americain",
+    "comfort_food": "glace, cheeseburgers, chips.",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Non",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "donuts, glace, chips",
+    "fruit_day": "trois quatre",
+    "veggies_day": "une portion",
+    "vitamins": "Non",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "mac and cheese, chocolat, and pastam",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "50 001 $ à 70 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "asiatique",
+    "comfort_food": "pasta, grandma homemade chocolat cake anything homemade ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Non",
+    "income": "30 001 $ à 50 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "chocolat, pasta, soup, chips, popcorn",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "asiatique",
+    "comfort_food": "cookies, popcorn, and chips",
+    "fruit_day": "trois quatre",
+    "veggies_day": "une portion",
+    "vitamins": "Non",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "glace, cake, chocolat",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Non",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "asiatique",
+    "comfort_food": "pizza, fruit, spaghetti, chicken and potatoes  ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "cookies, donuts, candy bars",
+    "fruit_day": "deux",
+    "veggies_day": "Aucun",
+    "vitamins": "Non",
+    "income": "50 001 $ à 70 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "jamaicaine",
+    "comfort_food": "saltfish, candy and kit kat ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "moins de 15 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "americain",
+    "comfort_food": "chips, cookies, glace",
+    "fruit_day": "deux",
+    "veggies_day": "deux portions",
+    "vitamins": "Non",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "americain",
+    "comfort_food": "chocolat, ice crea ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "pizza, wings, chinese",
+    "fruit_day": "Un seul",
+    "veggies_day": "une demi portion",
+    "vitamins": "Non",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "espagnol",
+    "comfort_food": "fast food, pizza, subs",
+    "fruit_day": "Un seul",
+    "veggies_day": "une portion",
+    "vitamins": "Non",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "indienne",
+    "comfort_food": "chocolat, sweets, glace",
+    "fruit_day": "deux",
+    "veggies_day": "une demi portion",
+    "vitamins": "Non",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "burgers, chips, cookies",
+    "fruit_day": "trois quatre",
+    "veggies_day": "une portion",
+    "vitamins": "Oui",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "asiatique",
+    "comfort_food": "chilli, soup, pot pie",
+    "fruit_day": "deux",
+    "veggies_day": "deux portions",
+    "vitamins": "Oui",
+    "income": "50 001 $ à 70 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "asiatique",
+    "comfort_food": "soup, pasta, brownies, cake",
+    "fruit_day": "trois quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Non",
+    "income": "50 001 $ à 70 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "chocolat, glace, milkshake, cookies",
+    "fruit_day": "trois quatre",
+    "veggies_day": "une portion",
+    "vitamins": "Non",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "chips, glace, microwaveable foods ",
+    "fruit_day": "deux",
+    "veggies_day": "une portion",
+    "vitamins": "Non",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "espagnol",
+    "comfort_food": "chicken fingers, pizza ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "cookies, hot chocolat, beef jerky",
+    "fruit_day": "deux",
+    "veggies_day": "une demi portion",
+    "vitamins": "Oui",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "indienne",
+    "comfort_food": "tomato soup, pizza, fritos, meatball sub, dr. Pepper",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Oui",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "espagnol",
+    "comfort_food": "cookies, mac-n-cheese, brownies, french fries",
+    "fruit_day": "deux",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "chips and dip, pepsi, ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "50 001 $ à 70 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "espagnol",
+    "comfort_food": "grandma's chinese, peruvian food from back home, and sushi",
+    "fruit_day": "trois quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "glace, cookies,  chinese food, chicken nuggets ",
+    "fruit_day": "deux",
+    "veggies_day": "une portion",
+    "vitamins": "Oui",
+    "income": "30 001 $ à 50 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "french fries, chips, glace",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Oui",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "americain",
+    "comfort_food": "mac n cheese, peanut butter and banana sandwich, omelet",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Non",
+    "income": "50 001 $ à 70 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "pizza, doughnuts, mcdonalds ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Non",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "chocolat, chips, candy",
+    "fruit_day": "deux",
+    "veggies_day": "deux portions",
+    "vitamins": "Non",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "chocolat, popcorn, glace",
+    "fruit_day": "trois quatre",
+    "veggies_day": "une portion",
+    "vitamins": "Non",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "espagnol",
+    "comfort_food": "candy, pop, chocolat, chipotle, moe's ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "une portion",
+    "vitamins": "Non",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "pizza, glace, fries, cereal, cookies  ",
+    "fruit_day": "deux",
+    "veggies_day": "deux portions",
+    "vitamins": "Non",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "glace, chocolat, twizzlers ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "30 001 $ à 50 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "glace, cookie dough, cookies, cheese",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Non",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "asiatique",
+    "comfort_food": "glace, cereal, and salt and vinegar chips ",
+    "fruit_day": "trois quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Oui",
+    "income": "30 001 $ à 50 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "asiatique",
+    "comfort_food": "potato chips, glace, chocolat, cookies",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "mac and cheese, fried chicken, cornbread ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Non",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "popcorn, chips, candy, & fries",
+    "fruit_day": "trois quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Non",
+    "income": "50 001 $ à 70 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "chex-mix, wegmans cookies, cheez-Its ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Non",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "asiatique",
+    "comfort_food": "pizza, glace, chips",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "fried chicken, mashed potatoes, mac and cheese",
+    "fruit_day": "deux",
+    "veggies_day": "une portion",
+    "vitamins": "Non",
+    "income": "30 001 $ à 50 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "americain",
+    "comfort_food": "popcorn, chex Mix, pizza",
+    "fruit_day": "trois quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Non",
+    "income": "moins de 15 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "burger",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Oui",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "espagnol",
+    "comfort_food": "pizza, chocolat, and glace ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Non",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "americain",
+    "comfort_food": "fries, chips, fried chicken, pizza, grapes",
+    "fruit_day": "trois quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Oui",
+    "income": "30 001 $ à 50 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "peanut butter sandwich, pretzals, garlic bread",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "chips, dip, fries, pizza",
+    "fruit_day": "trois quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Non",
+    "income": "30 001 $ à 50 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "asiatique",
+    "comfort_food": "pizza, glace, chicken wings",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "americain",
+    "comfort_food": "pizza chocolat chips bagels ice capps",
+    "fruit_day": "trois quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Oui",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "espagnol",
+    "comfort_food": "chocolat, glace, pasta",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "mac n cheese. chips and salsa, glace.",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Non",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "espagnol",
+    "comfort_food": "peanut butter, dessets, pretzels. ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "espagnol",
+    "comfort_food": "macaroons, truffles, peanut butter n chocolat glace",
+    "fruit_day": "deux",
+    "veggies_day": "une portion",
+    "vitamins": "Oui",
+    "income": "50 001 $ à 70 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "glace, cookies, glace",
+    "fruit_day": "trois quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Oui",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "carrots and ranch, pretzels, dark chocolat ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Non",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "cookies, nutella, glace, coffee, fruit ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "15 001 $ à 30 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "mac and cheese",
+    "fruit_day": "deux",
+    "veggies_day": "une portion",
+    "vitamins": "Non",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "americain",
+    "comfort_food": "chocolat, popcorn, glace",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "50 001 $ à 70 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "glace, cake, mozzarella sticks, pierogies ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Non",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "chips, mac and cheese, pizza, french fries ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Non",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "pizza, burritos, slim jims",
+    "fruit_day": "deux",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "broccoli, spaghetti squash, quinoa, and grilled chicken",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "30 001 $ à 50 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "chocolat, glace, cookie dough",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "pizza, pretzels, fruit snacks, deli sandwhich",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "espagnol",
+    "comfort_food": "chips, glace",
+    "fruit_day": "deux",
+    "veggies_day": "deux portions",
+    "vitamins": "Oui",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "nan",
+    "fruit_day": "trois quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Non",
+    "income": "30 001 $ à 50 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "mac and cheese, potato soup, glace, chips and cheese",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Oui",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "americain",
+    "comfort_food": "chocolat, pizza, and mashed potatoes",
+    "fruit_day": "trois quatre",
+    "veggies_day": "une demi portion",
+    "vitamins": "Non",
+    "income": "30 001 $ à 50 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "americain",
+    "comfort_food": "pizza cookies steak",
+    "fruit_day": "deux",
+    "veggies_day": "une demi portion",
+    "vitamins": "Non",
+    "income": "30 001 $ à 50 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "asiatique",
+    "comfort_food": "chocolat, fruit, and glace",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Oui",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "asiatique",
+    "comfort_food": "chips sweets popcorn",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Non",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "cookies, burgers, chicken noodle soup, glace",
+    "fruit_day": "deux",
+    "veggies_day": "une demi portion",
+    "vitamins": "Oui",
+    "income": "50 001 $ à 70 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "cake, french fries, chicken nuggets",
+    "fruit_day": "trois quatre",
+    "veggies_day": "une demi portion",
+    "vitamins": "Non",
+    "income": "50 001 $ à 70 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "pizza, glace, cookies",
+    "fruit_day": "deux",
+    "veggies_day": "une portion",
+    "vitamins": "Non",
+    "income": "30 001 $ à 50 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "espagnol",
+    "comfort_food": "mashed potatoes, pasta",
+    "fruit_day": "trois quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Non",
+    "income": "moins de 15 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "espagnol",
+    "comfort_food": "pasta dishes, cheesecake, pancakes",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "asiatique",
+    "comfort_food": "glace, pizza, cookies",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Oui",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "asiatique",
+    "comfort_food": "chinese food, moes, sponge candy, homemade lasagne ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Oui",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "americain",
+    "comfort_food": "pizza, pasta, mac and cheese",
+    "fruit_day": "trois quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Oui",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "espagnol",
+    "comfort_food": "little debbie snacks, donuts, pizza",
+    "fruit_day": "trois quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Oui",
+    "income": "15 001 $ à 30 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "asiatique",
+    "comfort_food": "carrots, plantain chips, almonds, popcorn ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "30 001 $ à 50 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "chips, glace, fruit snacks",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Oui",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "americain",
+    "comfort_food": "macaroni and cheese, chicken noodle soup, pizza",
+    "fruit_day": "Un seul",
+    "veggies_day": "Aucun",
+    "vitamins": "Non",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "americain",
+    "comfort_food": "chocolat, chips, glace, french fires, pizza",
+    "fruit_day": "Aucun",
+    "veggies_day": "deux portions",
+    "vitamins": "Non",
+    "income": "30 001 $ à 50 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "mac and cheese, lasagna, chinese food ",
+    "fruit_day": "trois quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Non",
+    "income": "50 001 $ à 70 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "candy, chinese, mcdonalds",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "americain",
+    "comfort_food": "doritos, mac and cheese, glace",
+    "fruit_day": "trois quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Non",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "glace, cake, pop, pizza, and milkshakes",
+    "fruit_day": "deux",
+    "veggies_day": "une demi portion",
+    "vitamins": "Oui",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "mac and cheese, pizza, glace and french fries ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Non",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "soup, pasta, cake",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Oui",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "mac & cheese, frosted brownies, chicken nuggs",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "50 001 $ à 70 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "watermelon, grapes, glace",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Non",
+    "income": "15 001 $ à 30 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "asiatique",
+    "comfort_food": "macaroni and cheese, stuffed peppers, hamburgers, french fries",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Non",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "pizza, mashed potatoes, spaghetti",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "moins de 15 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "indienne",
+    "comfort_food": "chocolat, terra chips, reese's cups(dark chocolat), and bread/crackers with cottage cheese",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "50 001 $ à 70 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "chips, chocolat, mozzarella sticks ",
+    "fruit_day": "trois quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "glace, chips, candy",
+    "fruit_day": "deux",
+    "veggies_day": "une demi portion",
+    "vitamins": "Non",
+    "income": "50 001 $ à 70 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "asiatique",
+    "comfort_food": "pizza, soda, chocolat brownie, chicken tikka masala and butter naan ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Non",
+    "income": "moins de 15 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "chocolat, pasta, cookies",
+    "fruit_day": "trois quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Non",
+    "income": "50 001 $ à 70 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "candy, salty snacks, toast",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Non",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "mac in cheese, pizza, mozzarella sticks ",
+    "fruit_day": "trois quatre",
+    "veggies_day": "une portion",
+    "vitamins": "Oui",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "ice-cream, pizza, chocolat",
+    "fruit_day": "deux",
+    "veggies_day": "une portion",
+    "vitamins": "Non",
+    "income": "30 001 $ à 50 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "snacks, chips, ",
+    "fruit_day": "deux",
+    "veggies_day": "une portion",
+    "vitamins": "Non",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "chocolat, glace, pizza",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "une portion",
+    "vitamins": "Non",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "glace, pizza, chinese food ",
+    "fruit_day": "trois quatre",
+    "veggies_day": "une demi portion",
+    "vitamins": "Non",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "asiatique",
+    "comfort_food": "burgers, indian and korean food\n",
+    "fruit_day": "trois quatre",
+    "veggies_day": "une portion",
+    "vitamins": "Non",
+    "income": "30 001 $ à 50 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "chocolat bar, glace, pretzels, potato chips and protein bars.",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "Une portion",
+    "vitamins": "Non",
+    "income": "plus élevé que 100 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "asiatique",
+    "comfort_food": "glace, chocolat, pizza, cucumber ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "moins de 15 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "asiatique",
+    "comfort_food": "noodle ( any kinds of noodle), tuna sandwich, and egg",
+    "fruit_day": "deux",
+    "veggies_day": "une portion",
+    "vitamins": "Oui",
+    "income": "15 001 $ à 30 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "americain",
+    "comfort_food": "chinese, chips, cake",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Non",
+    "income": "30 001 $ à 50 000 $",
+    "grade_level": "deuxième année"
+  },
+  {
+    "fav_cuisine_coded": "indienne",
+    "comfort_food": "chips, rice, chicken curry",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Non",
+    "income": "15 001 $ à 30 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "wine. mac and cheese, pizza, glace ",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Oui",
+    "income": "50 001 $ à 70 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "espagnol",
+    "comfort_food": "pizza, wings, cheesecake",
+    "fruit_day": "trois quatre",
+    "veggies_day": "plus de deux portions",
+    "vitamins": "Non",
+    "income": "15 001 $ à 30 000 $",
+    "grade_level": "Quatrième année"
+  },
+  {
+    "fav_cuisine_coded": "asiatique",
+    "comfort_food": "rice, potato, seaweed soup",
+    "fruit_day": "trois quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Non",
+    "income": "15 001 $ à 30 000 $",
+    "grade_level": "troisième année"
+  },
+  {
+    "fav_cuisine_coded": "française",
+    "comfort_food": "mac n cheese, lasagna, pizza",
+    "fruit_day": "plus de quatre",
+    "veggies_day": "une portion",
+    "vitamins": "Oui",
+    "income": "50 001 $ à 70 000 $",
+    "grade_level": "Première année"
+  },
+  {
+    "fav_cuisine_coded": "espagnol",
+    "comfort_food": "chocolat, pizza, and ritz.",
+    "fruit_day": "trois quatre",
+    "veggies_day": "deux portions",
+    "vitamins": "Non",
+    "income": "70 001 $ à 100 000 $",
+    "grade_level": "troisième année"
+  }
+]
