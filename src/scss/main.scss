@@ -326,10 +326,10 @@ body {
 						font-size: 12px;
 						margin-top: 15px;
 					}
-					&[data-order='moins de 15 000 $'] {
+					&[data-order='moins de 15 000 $ '] {
 						order: 0
 					}
-					&[data-order='15 0001 $ à 30 000 $'] {
+					&[data-order='15 001 $ à 30 000 $'] {
 						order: 1
 					}
 					&[data-order='30 001 $ à 50 000 $'] {
