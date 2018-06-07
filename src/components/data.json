@@ -5,7 +5,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Oui",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "deuxième année"
   },
   {
@@ -23,7 +23,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Oui",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "troisième année"
   },
   {
@@ -32,7 +32,7 @@
     "fruit_day": "trois quatre",
     "veggies_day": "une portion",
     "vitamins": "Oui",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Quatrième année"
   },
   {
@@ -41,7 +41,7 @@
     "fruit_day": "trois quatre",
     "veggies_day": "deux portions",
     "vitamins": "Non",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Quatrième année"
   },
   {
@@ -68,7 +68,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "deux portions",
     "vitamins": "Non",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "deuxième année"
   },
   {
@@ -77,7 +77,7 @@
     "fruit_day": "trois quatre",
     "veggies_day": "une portion",
     "vitamins": "Non",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "Première année"
   },
   {
@@ -104,7 +104,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Oui",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "deuxième année"
   },
   {
@@ -113,7 +113,7 @@
     "fruit_day": "trois quatre",
     "veggies_day": "une portion",
     "vitamins": "Non",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "Première année"
   },
   {
@@ -122,7 +122,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Non",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "troisième année"
   },
   {
@@ -131,7 +131,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Oui",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "troisième année"
   },
   {
@@ -158,7 +158,7 @@
     "fruit_day": "deux",
     "veggies_day": "deux portions",
     "vitamins": "Non",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Première année"
   },
   {
@@ -167,7 +167,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Oui",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "deuxième année"
   },
   {
@@ -176,7 +176,7 @@
     "fruit_day": "Un seul",
     "veggies_day": "une demi portion",
     "vitamins": "Non",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "Première année"
   },
   {
@@ -185,7 +185,7 @@
     "fruit_day": "Un seul",
     "veggies_day": "une portion",
     "vitamins": "Non",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "deuxième année"
   },
   {
@@ -194,7 +194,7 @@
     "fruit_day": "deux",
     "veggies_day": "une demi portion",
     "vitamins": "Non",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Quatrième année"
   },
   {
@@ -203,7 +203,7 @@
     "fruit_day": "trois quatre",
     "veggies_day": "une portion",
     "vitamins": "Oui",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Première année"
   },
   {
@@ -230,7 +230,7 @@
     "fruit_day": "trois quatre",
     "veggies_day": "une portion",
     "vitamins": "Non",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Première année"
   },
   {
@@ -239,7 +239,7 @@
     "fruit_day": "deux",
     "veggies_day": "une portion",
     "vitamins": "Non",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "deuxième année"
   },
   {
@@ -248,7 +248,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Oui",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Première année"
   },
   {
@@ -257,7 +257,7 @@
     "fruit_day": "deux",
     "veggies_day": "une demi portion",
     "vitamins": "Oui",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "troisième année"
   },
   {
@@ -266,7 +266,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "deux portions",
     "vitamins": "Oui",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "troisième année"
   },
   {
@@ -275,7 +275,7 @@
     "fruit_day": "deux",
     "veggies_day": "plus de deux portions",
     "vitamins": "Oui",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "Quatrième année"
   },
   {
@@ -293,7 +293,7 @@
     "fruit_day": "trois quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Oui",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "Quatrième année"
   },
   {
@@ -311,7 +311,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "deux portions",
     "vitamins": "Oui",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Première année"
   },
   {
@@ -329,7 +329,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Non",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "deuxième année"
   },
   {
@@ -338,7 +338,7 @@
     "fruit_day": "deux",
     "veggies_day": "deux portions",
     "vitamins": "Non",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Quatrième année"
   },
   {
@@ -347,7 +347,7 @@
     "fruit_day": "trois quatre",
     "veggies_day": "une portion",
     "vitamins": "Non",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "Quatrième année"
   },
   {
@@ -356,7 +356,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "une portion",
     "vitamins": "Non",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Quatrième année"
   },
   {
@@ -365,7 +365,7 @@
     "fruit_day": "deux",
     "veggies_day": "deux portions",
     "vitamins": "Non",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Première année"
   },
   {
@@ -383,7 +383,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "deux portions",
     "vitamins": "Non",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "deuxième année"
   },
   {
@@ -401,7 +401,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Oui",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "Quatrième année"
   },
   {
@@ -410,7 +410,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Non",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "deuxième année"
   },
   {
@@ -428,7 +428,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Non",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Première année"
   },
   {
@@ -437,7 +437,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Oui",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "deuxième année"
   },
   {
@@ -464,7 +464,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "deux portions",
     "vitamins": "Oui",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "deuxième année"
   },
   {
@@ -473,7 +473,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Non",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "deuxième année"
   },
   {
@@ -491,7 +491,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Oui",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "deuxième année"
   },
   {
@@ -509,7 +509,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Oui",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Quatrième année"
   },
   {
@@ -518,7 +518,7 @@
     "fruit_day": "trois quatre",
     "veggies_day": "deux portions",
     "vitamins": "Oui",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "deuxième année"
   },
   {
@@ -527,7 +527,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Oui",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "troisième année"
   },
   {
@@ -536,7 +536,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "deux portions",
     "vitamins": "Non",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Quatrième année"
   },
   {
@@ -545,7 +545,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Oui",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Première année"
   },
   {
@@ -563,7 +563,7 @@
     "fruit_day": "trois quatre",
     "veggies_day": "deux portions",
     "vitamins": "Oui",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Quatrième année"
   },
   {
@@ -572,7 +572,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Non",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "troisième année"
   },
   {
@@ -590,7 +590,7 @@
     "fruit_day": "deux",
     "veggies_day": "une portion",
     "vitamins": "Non",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "deuxième année"
   },
   {
@@ -608,7 +608,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Non",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "deuxième année"
   },
   {
@@ -617,7 +617,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Non",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Première année"
   },
   {
@@ -626,7 +626,7 @@
     "fruit_day": "deux",
     "veggies_day": "plus de deux portions",
     "vitamins": "Oui",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "troisième année"
   },
   {
@@ -644,7 +644,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Oui",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "troisième année"
   },
   {
@@ -653,7 +653,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Oui",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "Première année"
   },
   {
@@ -662,7 +662,7 @@
     "fruit_day": "deux",
     "veggies_day": "deux portions",
     "vitamins": "Oui",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "deuxième année"
   },
   {
@@ -680,7 +680,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "deux portions",
     "vitamins": "Oui",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "Première année"
   },
   {
@@ -707,7 +707,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "deux portions",
     "vitamins": "Oui",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "deuxième année"
   },
   {
@@ -716,7 +716,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "deux portions",
     "vitamins": "Non",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Première année"
   },
   {
@@ -761,7 +761,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Oui",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "deuxième année"
   },
   {
@@ -770,7 +770,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "deux portions",
     "vitamins": "Oui",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Première année"
   },
   {
@@ -779,7 +779,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "deux portions",
     "vitamins": "Oui",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Première année"
   },
   {
@@ -788,7 +788,7 @@
     "fruit_day": "trois quatre",
     "veggies_day": "deux portions",
     "vitamins": "Oui",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "deuxième année"
   },
   {
@@ -815,7 +815,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "deux portions",
     "vitamins": "Oui",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Première année"
   },
   {
@@ -824,7 +824,7 @@
     "fruit_day": "Un seul",
     "veggies_day": "Aucun",
     "vitamins": "Non",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "troisième année"
   },
   {
@@ -851,7 +851,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Oui",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Quatrième année"
   },
   {
@@ -860,7 +860,7 @@
     "fruit_day": "trois quatre",
     "veggies_day": "deux portions",
     "vitamins": "Non",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "troisième année"
   },
   {
@@ -869,7 +869,7 @@
     "fruit_day": "deux",
     "veggies_day": "une demi portion",
     "vitamins": "Oui",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Première année"
   },
   {
@@ -878,7 +878,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Non",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "deuxième année"
   },
   {
@@ -887,7 +887,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "deux portions",
     "vitamins": "Oui",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Quatrième année"
   },
   {
@@ -914,7 +914,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Non",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "Première année"
   },
   {
@@ -941,7 +941,7 @@
     "fruit_day": "trois quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Oui",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "Première année"
   },
   {
@@ -977,7 +977,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "plus de deux portions",
     "vitamins": "Non",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "deuxième année"
   },
   {
@@ -986,7 +986,7 @@
     "fruit_day": "trois quatre",
     "veggies_day": "une portion",
     "vitamins": "Oui",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "deuxième année"
   },
   {
@@ -1004,7 +1004,7 @@
     "fruit_day": "deux",
     "veggies_day": "une portion",
     "vitamins": "Non",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "troisième année"
   },
   {
@@ -1013,7 +1013,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "une portion",
     "vitamins": "Non",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Quatrième année"
   },
   {
@@ -1022,7 +1022,7 @@
     "fruit_day": "trois quatre",
     "veggies_day": "une demi portion",
     "vitamins": "Non",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Quatrième année"
   },
   {
@@ -1040,7 +1040,7 @@
     "fruit_day": "plus de quatre",
     "veggies_day": "Une portion",
     "vitamins": "Non",
-    "income": "plus élevé que 100 000 $",
+    "income": "100 000 $ et plus",
     "grade_level": "Première année"
   },
   {
@@ -1121,7 +1121,7 @@
     "fruit_day": "trois quatre",
     "veggies_day": "deux portions",
     "vitamins": "Non",
-    "income": "70 001 $ à 100 000 $",
+    "income": "70 001 $ à 99 999 $",
     "grade_level": "troisième année"
   }
 ]

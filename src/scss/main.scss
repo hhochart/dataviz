@@ -1,5 +1,10 @@
 @import "variables";
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Montserrat, 300');
+
+ body {
+	 -webkit-font-smoothing: antialiased;
+	 -webkit-text-size-adjust: none !important;
+ }
 
 // GLOBAL STUFF
 .router {
@@ -261,6 +266,106 @@ body {
 		.img-container {
 			&::after {
 				content: none;
+			}
+		}
+	}
+}
+
+/* RESULTS */
+
+.slide.results {
+	background: url('./assets/fond-ecran6.png') no-repeat center right;
+	.subtitle {
+		font-size: 15px;
+	}
+	.img-illu {
+		position: absolute;
+		bottom: -5vh;
+		width: 11vw;
+		right: 5%;
+	}
+	.container {
+		display: flex;
+		margin-top: 50px;
+		h2 {
+			font-size: 20px;
+		}
+		.left-container {
+			flex: 40%;
+			.donut-container {
+				display: flex;
+				.legends {
+					display: flex;
+					flex-direction: row;
+					justify-content: center;
+					align-items: center;
+					img {
+						width: 40px;
+					}
+					figcaption {
+						font-size: 13px;
+						padding-left: 20px;
+					}
+				}
+			}
+			.vitamin-container {
+				margin-top: 50px;
+			}
+		}
+		.right-container {
+			flex: 55%;
+			.salary-container {
+				display: flex;
+				width: 50%;
+				min-width: 300px;
+				text-align: center;
+				.salary {
+					margin: 0 5px;
+					padding: 0 5px;
+					.salary-text {
+						font-size: 12px;
+						margin-top: 15px;
+					}
+					&[data-order='moins de 15 000 $'] {
+						order: 0
+					}
+					&[data-order='15 0001 $ à 30 000 $'] {
+						order: 1
+					}
+					&[data-order='30 001 $ à 50 000 $'] {
+						order: 2
+					}
+					&[data-order='50 001 $ à 70 000 $'] {
+						order: 3
+					}
+					&[data-order='70 001 $ à 99 999 $'] {
+						order: 4
+					}
+					&[data-order='100 000 $ et plus'] {
+						order: 5
+					}
+					.gauge {
+						text-align: center;
+						width: 25px;
+						height: 350px;
+						background-color: $grisclair;
+						position: relative;
+						margin: auto;
+						.blue {
+							position: absolute;
+							bottom: 0;
+							left: 0;
+							right: 0;
+							height: 100px;
+							background-color: $bleuclair;
+						}
+					}
+					&:last-of-type {
+						.blue {
+							background-color: $bleufonce;
+						}
+					}
+				}
 			}
 		}
 	}
