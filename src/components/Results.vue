@@ -80,12 +80,6 @@ export default {
       donut3,
       donut4,
       style: {},
-      results: {
-        1: '',
-        2: '',
-        3: '',
-        4: 'Plus de deux portions'
-      },
       occurences: [],
       vitamins: [],
       novitamins: [],
@@ -110,12 +104,9 @@ export default {
     }
   },
   mounted () {
-    /*
-    * TODO: Uncomment
-    */
-    // if (Object.keys(this.$results).length === 0) {
-    //   this.$router.push({name: 'Slide', params: {id: 1}})
-    // }
+    if (Object.keys(this.$results).length === 0) {
+      this.$router.push({name: 'Slide', params: {id: 1}})
+    }
 
     // Preparation du tableaux occurences
     this.datas.forEach((d, i) => {
@@ -151,7 +142,7 @@ export default {
         Object.keys(data).forEach((element, elementIndex) => { // chaque question
           let elementIndexIncremented = elementIndex + 1
           if (elementIndex < 4) { // seulement fav cuisine, comfort food, fruit et veggies
-            if (data[element].includes(this.results[elementIndexIncremented].toLowerCase())) {
+            if (data[element].includes(this.$results[elementIndexIncremented].toLowerCase())) {
               // si la reponse est dans la chaine de caratere, on increment le tableau des occurences
               this.occurences[dataIndex][1]++
             }
