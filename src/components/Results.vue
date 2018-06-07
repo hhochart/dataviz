@@ -51,8 +51,7 @@
             <div class="gauge">
               <span class="blue" :style="{height: `calc(75 * ${result[1]}px)`}"></span>
             </div>
-            <div class="salary-text" v-html="pipeResult(result[0])">
-            </div>
+            <div class="salary-text" v-html="pipeResult(result[0])"></div>
           </div>
         </div>
 
@@ -89,9 +88,9 @@ export default {
     }
   },
   watch: {
-    currentResult (val) {
+    currentResult (value) {
       let temp = []
-      val.forEach((e) => {
+      value.forEach((e) => {
         temp.push(e.income)
       })
 
