@@ -89,6 +89,7 @@ export default {
   },
   watch: {
     currentResult (value) {
+      this.salaryResult = []
       let temp = []
       value.forEach((e) => {
         temp.push(e.income)
@@ -150,7 +151,9 @@ export default {
       })
     },
     useVitamin () {
+      console.log(this.salaryResult)
       this.currentResult = this.vitamins
+      console.log(this.salaryResult)
     },
     entries (obj) {
       let ownProps = Object.keys(obj)
@@ -162,8 +165,7 @@ export default {
     },
     pipeResult (value) {
       let a = value.split('$')
-      let val = a[0] + '$ <br/>' + a[1]
-      return val
+      return a[0] + '$ <br/>' + a[1]
     }
   }
 }
